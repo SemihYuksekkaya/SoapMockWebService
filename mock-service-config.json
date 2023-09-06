@@ -1,0 +1,8 @@
+{   
+    "packageName":"demo",
+    "artifactId":"demo",
+    "groupId":"com.example",
+    "wsdlFile":"file.wsdl",
+    "description":"demo spring boot application",
+    "endpoint":"endpoint"
+}
